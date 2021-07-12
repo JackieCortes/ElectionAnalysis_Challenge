@@ -38,3 +38,5 @@ The following images were taken from the terminal.
   * Election's winner.
   
   ![Winner](https://github.com/JackieCortes/ElectionAnalysis_Challenge/blob/main/Images/Winner.png)
+
+_Note:Complete summary was printed in the text file. Please, review it in [elections_results.txt](https://github.com/JackieCortes/ElectionAnalysis_Challenge/tree/main/analysis)_
