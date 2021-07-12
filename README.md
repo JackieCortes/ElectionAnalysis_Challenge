@@ -52,7 +52,7 @@ Let's explore examples:
 
 _Appendix: To revew the code, please refer to [PyPoll_Challenge.py](https://github.com/JackieCortes/ElectionAnalysis_Challenge/blob/main/PyPoll_Challenge.py)_
 
-### Resoruces
+### Resources
 - Data Source: [election_results.csv](https://github.com/JackieCortes/ElectionAnalysis_Challenge/tree/main/ResourcesPP)
 - Software: Python 3.8.8, Visual Studio Code:1.58.0
 
