@@ -16,7 +16,8 @@ This task usually is done in Excel, but they wanted to automate the task. If it 
 The task was done as it was expected, and the result was delivered in the terminal and a text file. Evidence has been included in the repository.
 
 ## Election-Audit Results
-According to the request, results were categorized: total, total by county, count by candidate, highest turnout county, and winner candidate, as you can see in the below image.
-The following images were taken from the displayed data in the terminal after running the Python code.
+According to the request, results were categorized to be presented in the terminal after running the Python code and into text file.
+The following images were taken from the terminal.
 
-  * Total Votes
+  * Total Votes\n
+  ![Total Votes](https://github.com/JackieCortes/ElectionAnalysis_Challenge/blob/main/Images/TotalVotes.png)
