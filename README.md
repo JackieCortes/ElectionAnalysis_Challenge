@@ -19,5 +19,10 @@ The task was done as it was expected, and the result was delivered in the termin
 According to the request, results were categorized to be presented in the terminal after running the Python code and into text file.
 The following images were taken from the terminal.
 
-  * Total Votes\n
+  * Total Votes
+  
   ![Total Votes](https://github.com/JackieCortes/ElectionAnalysis_Challenge/blob/main/Images/TotalVotes.png)
+
+  * Breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
+![County Breakdown](![Total Votes](https://github.com/JackieCortes/ElectionAnalysis_Challenge/blob/main/Images/TotalVotes.png))
