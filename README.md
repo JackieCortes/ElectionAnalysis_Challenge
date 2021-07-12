@@ -25,4 +25,4 @@ The following images were taken from the terminal.
 
   * Breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
-![County Breakdown](![Total Votes](https://github.com/JackieCortes/ElectionAnalysis_Challenge/blob/main/Images/TotalVotes.png))
+  ![County Breakdown](https://github.com/JackieCortes/ElectionAnalysis_Challenge/blob/main/Images/County_Votes.png)
