@@ -50,4 +50,9 @@ Let's explore examples:
     2) Different data: The counties and candidates can vary to use the same code from other states.
     3) New variable: If new variables were added to categorize the votes, adding a new cycle would be the solution to refactor the script and print the information.
 
-_Appendix: To revew the code, please refer to [PyPoll_Challenge.py](https://github.com/JackieCortes/ElectionAnalysis_Challenge/tree/main/ResourcesPP)_
+_Appendix: To revew the code, please refer to [PyPoll_Challenge.py]()_
+
+### Resoruces
+- Data Source: [election_results.csv](https://github.com/JackieCortes/ElectionAnalysis_Challenge/tree/main/ResourcesPP)
+- Software: Python 3.8.8, Visual Studio Code:1.58.0
+
