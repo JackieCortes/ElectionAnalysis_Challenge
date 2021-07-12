@@ -26,3 +26,15 @@ The following images were taken from the terminal.
   * Breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
   ![County Breakdown](https://github.com/JackieCortes/ElectionAnalysis_Challenge/blob/main/Images/County_Votes.png)
+  
+  * County with the largest number of votes.
+  
+  ![Largest_County](https://github.com/JackieCortes/ElectionAnalysis_Challenge/blob/main/Images/Largest_County.png)
+  
+  * Breakdown of the number of votes and the percentage of the total votes each candidate received.
+  
+  ![Candidate_Breakdown](https://github.com/JackieCortes/ElectionAnalysis_Challenge/blob/main/Images/Candidates.png)
+  
+  * Election's winner.
+  
+  ![Winner](https://github.com/JackieCortes/ElectionAnalysis_Challenge/blob/main/Images/Winner.png)
