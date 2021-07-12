@@ -45,6 +45,9 @@ _Note: Complete summary was printed in the text file. Please, review it in [elec
 As you can see, the current code to audit this congressional election is effective. Its performance in speed terms exceed the expected time to obtain the same result using Excel. Adding that the flexibility of the code can accept more changes depending on the use that you want to give.
 
 Let's explore examples:
+
     1) Volume: due to the speed and the type of file, if the election would have more voters, it was not an issue. Python can support more volume without problems.
     2) Different data: The counties and candidates can vary to use the same code from other states.
     3) New variable: If new variables were added to categorize the votes, adding a new cycle would be the solution to refactor the script and print the information.
+
+_Appendix: To see the code please refer to [PyPoll_Challenge.py](https://github.com/JackieCortes/ElectionAnalysis_Challenge/tree/main/ResourcesPP)
